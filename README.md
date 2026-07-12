@@ -1,6 +1,6 @@
 ### Hi, I'm Viktor Qorri 👋
 
-🇳🇱 [Lees dit in het Nederlands](README.nl.md)
+🇳🇱 [Lees dit in het Nederlands](README.nederlands.md)
 
 I'm building **Ulticoach**, an AI copilot for online fitness coaches: it cuts down the coach's manual work while keeping their own coaching methodology intact, so clients get results shaped by the coach — not generic AI output. From September 2026 I'll combine this with a Bachelor's in Software Engineering (HBO) at Avans Hogeschool in 's-Hertogenbosch.
 
