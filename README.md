@@ -1,17 +1,16 @@
-### Hoi, ik ben Viktor 👋
+### Hi, I'm Viktor Qorri 👋
 
-<!-- Geen emoji verder in dit bestand, op de hand-wave na — dat mag altijd. -->
+🇳🇱 [Lees dit in het Nederlands](README.nl.md)
 
-Ik bouw **Ulticoach**, een AI-copilot voor online fitness-coaches: het automatiseert het
-schrijven en bijsturen van trainingsschema's zodat coaches meer tijd overhouden voor hun
-klanten. Sinds september 2026 combineer ik dat met de HBO-opleiding Software Engineering.
+I'm building **Ulticoach**, an AI copilot for online fitness coaches: it cuts down the coach's manual work while keeping their own coaching methodology intact, so clients get results shaped by the coach — not generic AI output. From September 2026 I'll combine this with a Bachelor's in Software Engineering (HBO) at Avans Hogeschool in 's-Hertogenbosch.
 
-Ik zoek ernaast een **stage of entry-level baan** waar ik tijdens mijn studie kan meedraaien
-in een echt engineering-team — en sta open voor losse freelance full-stack klussen.
+Alongside that, I'm looking for an **internship or entry-level role** where I can join a real engineering team during my studies, and I'm open to freelance full-stack & (AI) automation projects.
+
+Contact info at the bottom of this page | Project inquiries via https://qorri.nl
 
 ---
 
-**Waar ik mee werk**
+**Tech I work with**
 
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -23,11 +22,9 @@ in een echt engineering-team — en sta open voor losse freelance full-stack klu
 
 ---
 
-**Uitgelicht**
+**Featured**
 
-- **Ulticoach — backend-prototype**: een n8n-flow (3 nodes) die de kern van de AI-copilot
-  demonstreert. De nodes zelf zijn eenvoudig — het zwaartepunt zit in de prompt die het
-  coach-gedrag stuurt.
+- **Ulticoach | prototype backend** — an n8n flow demonstrating the core of one of the AI copilot's features. The nodes themselves are simple; the real work is in the prompt that drives the AI. Read more → https://github.com/ViktorQorri/Portfolio-Ulticoach-prototype-backend
 
 ---
 
