@@ -4,7 +4,7 @@
 
 I'm building **Ulticoach**, an AI copilot for online fitness coaches: it cuts down the coach's manual work while keeping their own coaching methodology intact, so clients get results shaped by the coach — not generic AI output. From September 2026 I'll combine this with a Bachelor's in Software Engineering (HBO) at Avans Hogeschool in 's-Hertogenbosch.
 
-Alongside that, I'm looking for an **internship or entry-level role** where I can join a real engineering team during my studies, and I'm open to freelance full-stack & (AI) automation projects.
+Alongside that, I'm looking for an **internship or entry-level role** where I can join a real engineering team during my study, and I'm open to freelance full-stack & (AI) automation projects.
 
 Contact info at the bottom of this page | Project inquiries via https://qorri.nl
 
