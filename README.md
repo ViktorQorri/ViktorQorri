@@ -1,12 +1,10 @@
-### Hi, I'm Viktor Qorri 👋
+# Hi, I'm Viktor Qorri 👋
 
 🇳🇱 [Lees dit in het Nederlands](README.nederlands.md)
 
-I'm a freelance full-stack web engineer, working with Next.js, TypeScript/TSX, HTML, Tailwind CSS and n8n. From September 2026 I'll combine this with a Bachelor's in Software Engineering (HBO) at Avans Hogeschool in 's-Hertogenbosch.
+I'm a freelance full-stack engineer. I build custom web applications, offer software consulting that fits solutions to how a business actually works, and handle hosting and maintenance. I manage a team of freelance developers and I'm currently studying Software Engineering (HBO) at Avans Hogeschool in 's-Hertogenbosch.
 
-Alongside that, I'm looking for an **internship or entry-level role** where I can join a real engineering team during my study, and I'm open to freelance full-stack & (AI) automation projects.
-
-Portfolio: [viktor.qorri.nl/en](https://viktor.qorri.nl/en/) | Contact info at the bottom of this page | Project inquiries via https://qorri.nl
+I'm open to full-stack development and (AI) automation work.
 
 ---
 
@@ -17,14 +15,23 @@ Portfolio: [viktor.qorri.nl/en](https://viktor.qorri.nl/en/) | Contact info at t
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 ---
 
 **Featured**
 
-- **Ulticoach | prototype backend** — an n8n flow demonstrating the core of an AI copilot feature I designed for online fitness coaches. The nodes themselves are simple; the real work is in the prompt that drives the AI. Read more → https://github.com/ViktorQorri/Portfolio-Ulticoach-prototype-backend
+* **Production app:** a project I delivered that is now live in production, used by around 10,000 customers.
+* **Ulticoach prototype backend:** an n8n flow demonstrating the core of an AI copilot feature I designed for online fitness coaches. The nodes are simple; the real work is in the prompt that drives the AI. This is a prototype and no longer in active development. Read more: https://github.com/ViktorQorri/Portfolio-Ulticoach-prototype-backend
+
+**Currently**
+
+* Building a fintech SaaS app.
 
 ---
 
-📫 [qorri.nl](https://qorri.nl) · [Portfolio](https://viktor.qorri.nl/en/) · [LinkedIn](https://www.linkedin.com/in/viktor-qorri/) · viktor@qorri.nl
+📫 [LinkedIn](https://www.linkedin.com/in/viktor-qorri/) · viktor@qorri.nl
